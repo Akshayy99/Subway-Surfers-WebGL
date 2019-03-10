@@ -6,11 +6,11 @@ Description of the game
 
 ### Controls:
 
--- a,left : LEFT
--- d,right : RIGHT
--- space   : JUMP
--- enter   : change to grayscale
--- up      : flash the walls
+    a,left  : move LEFT
+    d,right : move RIGHT
+    space   : JUMP
+    enter   : change appearance to grayscale
+    up      : flash the walls
 
 ### Obstacles:
 
